@@ -3,7 +3,6 @@
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.3);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,6 +10,7 @@ body {
 }
 
 main {
+    background-color: rgb(245, 244, 244);
     width: 100%;
 }
 
@@ -19,7 +19,6 @@ main {
 }
 
 .modal {
-    background-color: rgb(247, 247, 247);
     line-height: 30px;
     padding: 20px;
     border: hidden ;
