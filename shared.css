@@ -20,6 +20,7 @@ main {
 }
 
 .modal {
+    background-color: white;
     line-height: 30px;
     padding: 20px;
     border: hidden ;
