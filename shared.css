@@ -10,7 +10,7 @@ body {
 }
 
 main {
-    background-color: rgb(245, 244, 244);
+    background-color: rgb(0, 0, 0, 0.3);
     width: 100%;
 }
 
@@ -370,7 +370,6 @@ main {
     }
 
     #key-features {
-        background-color: rgb(247, 247, 247);
         margin-top: 5rem;
         padding: 1rem;
     }    
