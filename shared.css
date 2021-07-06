@@ -112,7 +112,6 @@ main {
     display: inline-block;
     padding: 8px;
     vertical-align: top;
-    background-color: hsl(0, 0%, 98%);
 }
 
 .section__description {
@@ -335,7 +334,6 @@ main {
     }
 
     .section--element {
-        background-color: hsl(0, 0%, 98%);
         height: 350px;
         grid-template-columns: 400px 200px;
         grid-template-rows: repeat(2, 300px);
